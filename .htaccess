@@ -1,0 +1,5 @@
+CharsetDefault utf-8
+
+RewriteEngine on
+RewriteBase '/phpstartp/'
+RewriteRule ^(.*)$ index.php
